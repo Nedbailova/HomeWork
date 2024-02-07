@@ -1,0 +1,17 @@
+body{
+    margin:0;
+}
+  
+.content{
+    position: relative;
+    overflow: hidden;
+    min-height: calc(100vh - 40px);
+}
+  
+footer{
+    height: 40px;
+    width: 100%;
+    background-color: blue;
+}
+  
+  
